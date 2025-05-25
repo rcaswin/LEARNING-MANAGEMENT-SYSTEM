@@ -32,19 +32,9 @@ An advanced web-based Learning Management System built using **React, Spring Boo
 
 ## 🧠 AI Features
 
-- GPT-4.1 powered **AI Tutor**
+- Gemini powered **AI Tutor**
 - **Smart Feedback System** after assessments
 - **Code Assist** for programming courses
-
----
-
-## 🚀 Deployment
-
-- **Frontend** hosted on AWS Amplify  
-- **Backend** using AWS Lambda  
-- **Database** with AWS RDS  
-- **Files (Videos, PDFs)** stored in AWS S3  
-- **Domain Management** via AWS Route 53
 
 ---
 
@@ -68,7 +58,7 @@ An advanced web-based Learning Management System built using **React, Spring Boo
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/rcaswin/LEARNING-MANAGEMENT-SYSTEM/blob/main/LICENSE).
 
 ---
 
