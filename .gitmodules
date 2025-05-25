@@ -1,0 +1,3 @@
+[submodule "LMS-BACKEND"]
+	path = LMS-BACKEND
+	url = https://github.com/rcaswin/LMS_Backend
