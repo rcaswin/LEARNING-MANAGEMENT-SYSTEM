@@ -1,3 +1,9 @@
 [submodule "LMS-BACKEND"]
 	path = LMS-BACKEND
 	url = https://github.com/rcaswin/LMS_Backend
+[submodule "instructor"]
+    path = instructor
+    url = https://github.com/rcaswin/LMS-INSTRUCTOR
+[submodule "LMS"]
+    path = LMS
+    url = https://github.com/rcaswin/lms
